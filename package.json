@@ -1,0 +1,12 @@
+{
+    "name": "MyFirstNR",
+    "description": "Trying Nodered Projects",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_trial.json",
+            "credentialsFile": "flows_trial_cred.json"
+        }
+    }
+}
